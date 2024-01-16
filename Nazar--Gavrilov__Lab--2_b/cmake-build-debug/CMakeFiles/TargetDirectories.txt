@@ -1,0 +1,3 @@
+D:/C++/OOP/Nazar--Gavrilov__Lab--2_b/cmake-build-debug/CMakeFiles/Nazar__Gavrilov__Lab__2_b.dir
+D:/C++/OOP/Nazar--Gavrilov__Lab--2_b/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/C++/OOP/Nazar--Gavrilov__Lab--2_b/cmake-build-debug/CMakeFiles/rebuild_cache.dir
